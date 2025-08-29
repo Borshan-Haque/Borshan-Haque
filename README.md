@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Borshan-Haque
-- 👀 I’m interested in web development and blick chain
+- 👀 I’m interested in web development and block chain
 - 🌱 I’m currently learning ... Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
