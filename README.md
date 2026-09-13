@@ -32,7 +32,7 @@ Currently focused on:
 
 **Languages**
 
-Python • C++ • JavaScript/TypeScript • SQL
+Python • Numpy • Pandas • C++ • JavaScript/TypeScript • SQL
 
 **AI / ML**
 
