@@ -62,6 +62,8 @@ Machine learning system for real-world prediction and analytics.
 
 ### ⚽ WorldCup AI Prediction
 AI-powered football prediction and analytics platform.
+### Case Study on Zepto
+Zepto supply-chain execution and my Kirana Store Model
 
 ### 📊 Meesho Return Reduction
 Product & Data Science case study focused on reducing return rates.
