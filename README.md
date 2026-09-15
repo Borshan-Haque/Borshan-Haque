@@ -81,4 +81,7 @@ Product & Data Science case study focused on reducing return rates.
 
 ## 🤝 Let's Connect
 
-https://www.linkedin.com/in/borshan-haque-4133b9328/ • Email-borshanhaquework@gmail.com
+• Linkedin= https://www.linkedin.com/in/borshan-haque-4133b9328/ 
+• Email= borshanhaquework@gmail.com
+•Twitter= https://x.com/BorshanHaq66628
+
